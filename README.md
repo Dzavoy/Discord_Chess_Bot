@@ -29,5 +29,6 @@ A work-in-progress Discord bot that allows users to play chess against Stockfish
 
 - Python 3.10+
 - Discord bot token
+- Server ID
 - [Stockfish](https://stockfishchess.org/) installed locally
 - Discord server with custom chess emojis
