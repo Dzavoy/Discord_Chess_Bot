@@ -1,6 +1,6 @@
 # Discord Chess Bot ♟️
 
-![Chess Bot Screenshot](./assets/screenshot.png)
+![Chess Bot Screenshot](./assets/C13C66A5-631D-429B-A795-94F494786845.png)
 
 A work-in-progress Discord bot that allows users to play chess against Stockfish Engine directly in Discord, using custom server emojis for the chessboard. 
 
