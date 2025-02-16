@@ -183,4 +183,4 @@ async def newgame(ctx):
     await chesslines(ctx)
 
 #Run the bot with a discord token
-bot.run(os.getenv("DISCORD_TOKEN"))
+bot.run(os.getenv("DISCORD_TOKEN")) 
